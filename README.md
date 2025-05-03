@@ -1,7 +1,10 @@
 ~~~ Malawi Springer ~~
-~~ Last Edited: April 25, 2025 ~~
+~~ Last Edited: May 3, 2025 ~~
 
-Description: This is a project I'm working on to practice my bit manipulations in C. The only preemplemnted functions I'm using are add and nor, along with with bitwise maniplulation. The goal is for this to implement the following functions: 
+Description: This is a project I'm working on to practice my bit manipulations in C. The only
+pre-emplemnted functions I'm using are add and nor, along with with bitwise maniplulation. 
+
+The goal is for this to implement the following functions: 
 * add
 * subtract
 * multiply
@@ -20,9 +23,12 @@ Description: This is a project I'm working on to practice my bit manipulations i
 * implementation of parenthesis
 
 Completed: 
+[1] negate (-x)
+[2] add (x + y)
+[3] subtract (x - y); 
 
 To Use: 
 1. On the command line, run
-2. Write your requested equations as using the format of the completed list above. *you can also use 'ans' in replacement of a number to use your most previous answer. 
-    2a. followed by an equal sign (eg, 2+2=)
+2. Write your requested equations using the format of "x y operation_number", refrencing the completed list above for operation numbers 
+        2a. **For negate it should be "x 0 1" 
 3. Quit using 'q' 
